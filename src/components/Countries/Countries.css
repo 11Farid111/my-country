@@ -1,0 +1,10 @@
+.country-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+.visited{
+    background-color: bisque;
+}
+.flag img{
+    width: 100px;
+}
